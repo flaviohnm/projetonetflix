@@ -1,6 +1,6 @@
 # Boot Camp| Angular Developer  :pencil:
 
-## RECRIANDO INTERFACE NETFLIX :film_projector:
+## RECRIANDO INTERFACE NETFLIX  :penguin:
 
 #### FERRAMENTAS UTILIZADAS
 
@@ -21,13 +21,5 @@ O projeto tem como objetivo recriar a interface no Netflix usados as ferramentas
 
 - ###### Sobre mim
 
-  @Autor: [Flávio Monteiro](https://github.com/flaviohnm)
-
-  <img src="D:\Workspace\ico\linkedin.png" style="zoom:25%;"/>[Flávio Monteiro](https://www.linkedin.com/in/flaviohnm/)
-
-
-
-
-
-
+  @Autor: [Flávio Monteiro](https://github.com/flaviohnm) | :rocket: [Flavio Monteiro](https://www.linkedin.com/in/flaviohnm/)  | :e-mail: [fm](flaviohnm@gmail.com)
 
