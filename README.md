@@ -17,10 +17,13 @@
 
 O projeto tem como objetivo recriar a interface no Netflix usados as ferramentas acima citadas.
 
-Sobre mim:
 
-- Flávio Monteiro
-- [LinkedIn](https://www.linkedin.com/in/flaviohnm/)
+
+- ###### Sobre mim
+
+  @Autor: [Flávio Monteiro](https://github.com/flaviohnm)
+
+  <img src="D:\Workspace\ico\linkedin.png" style="zoom:25%;"/>[Flávio Monteiro](https://www.linkedin.com/in/flaviohnm/)
 
 
 
