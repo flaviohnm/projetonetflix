@@ -99,34 +99,33 @@ header nav a:hover {
     transition: .3s ease all;
 }
 
-.botao:hover{
+.botao:hover {
 
     background-color: white;
     color: black;
 
 }
 
-.botao i{
+.botao i {
 
     margin-right: 8px;
 
 }
 
-.container{
+.container {
 
     margin-left: 20px;
     margin-right: 10px
-
 }
 
-.filme-principal .container{
+.filme-principal .container {
 
     width: 70%;
 
 }
 
 /* Carrossel da parte inferior da página */
-.box-filme{
+.box-filme {
 
     height: 100%;
     width: 100%;
@@ -134,7 +133,7 @@ header nav a:hover {
 
 }
 
-.carrossel-filmes{
+.carrossel-filmes {
 
     margin-top: 5px;
 
