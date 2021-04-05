@@ -125,10 +125,17 @@ header nav a:hover {
 
 }
 
+/* Carrossel da parte inferior da página */
 .box-filme{
 
     height: 100%;
     width: 100%;
     display: block;
-    
+
+}
+
+.carrossel-filmes{
+
+    margin-top: 5px;
+
 }
